@@ -189,8 +189,6 @@ Before evaluating any platform, we must instrument or estimate the following per
 | PromptLayer                                  | $7,500      | $90,000      |
 | **Total current spend**                      | **$27,500** | **$330,000** |
 
-**Budget for the new stack:** $17,500/month ($210,000/year). This represents a $10,000/month reduction vs. today. Any proposed stack must fit within this envelope across all components combined (router + observability + evaluation).
-
 **Cost projection approach:**
 
 For each platform, compute:
